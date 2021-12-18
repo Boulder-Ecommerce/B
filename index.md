@@ -1,5 +1,5 @@
 ## Boulder Ecommerce
-![1-removebg-preview](https://user-images.githubusercontent.com/96320435/146627223-2e726d58-3f48-411f-8e74-48e84ac507dc.png)
+![1-removebg-preview (1)](https://user-images.githubusercontent.com/96320435/146627351-5e8f520a-00dd-4f01-b47f-53c73da33943.png)
 
 ### Contact:
 
