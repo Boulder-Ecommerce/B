@@ -13,7 +13,7 @@ PO BOX #1089
 1601 29th St. Suite 1292
 Boulder, CO 80301
 
-**Hours** 
+**HOURS** 
 Mon: 8:30am-5pm
 T: 8:30am-5pm
 W: 8:30am-5pm
