@@ -6,13 +6,13 @@
 ### Contact:
 
 ```markdown
-__Phone:__
+Phone:
 WhatsApp: +12533811095
 
-__Email:__
+Email:
 BoulderEcommerce@gmail.com
 
-__Hours Of Operation (MTN TIME):__
+Hours Of Operation (MTN TIME):
 
 M: 8:00am-5:00pm
 
